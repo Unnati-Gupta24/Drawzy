@@ -3,7 +3,7 @@ const body = document.querySelector('body');
 
 let linewidth = 5;
 let color = '';
-let X = null;
+let X = null; 
 let Y = null;
 var draw = false;
 
